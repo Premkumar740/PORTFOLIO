@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://kbalaji-portfolio.netlify.app/sitemap.xml",
+    sitemap: "https://portfolio-ni1e0elzy-premkumar740s-projects.vercel.app/sitemap.xml",
   };
 }
