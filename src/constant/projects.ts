@@ -45,6 +45,6 @@ export const PROJECT_DATA = [
       "An AI-powered RAG chatbot that retrieves accurate answers from custom datasets. Built using vector search and LLMs to provide context-aware, trustworthy responses.",
     github_link: "https://github.com/Premkumar740/RAG_CHATBOT", // Optional: link to PBIX file or screenshots
     demo: "", // Optional: Power BI report link
-    tech: ["Pyton", "LLM", "RAG", "NLP","Machine Learning"],
+    tech: ["Python", "LLM", "RAG", "NLP","ML"],
   },
 ];
