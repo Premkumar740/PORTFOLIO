@@ -39,7 +39,6 @@ export const metadata: Metadata = {
   },
   icons: '/images/logo.svg',
   metadataBase: new URL('https://portfolio-ni1e0elzy-premkumar740s-projects.vercel.app'),
-,
 };
 
 export default function RootLayout({
