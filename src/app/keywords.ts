@@ -1,6 +1,6 @@
 const keywords = [
-  "Balaji",
-  "Balaji K",
+  "Premkumar R",
+  "Premkumar R",
   "portfolio",
   "developer",
   "web developer",
