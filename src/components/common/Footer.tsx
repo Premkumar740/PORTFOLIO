@@ -73,10 +73,10 @@ export const Footer = () => {
       <span
         className="cursor-pointer text-slate-200 hover:underline"
         onClick={() =>
-          window.open("https://kbalaji-portfolio.netlify.app", "_blank")
+          window.open("https://portfolio-ni1e0elzy-premkumar740s-projects.vercel.app", "_blank")
         }
       >
-        Balaji
+        Premkumar
       </span>
       <sup>©</sup>
     </code>
